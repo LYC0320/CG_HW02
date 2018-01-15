@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Hw2_studentID.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\cxl\downloads\computer graphics\cg_hw02\hw2_studentid\object_class.h(87): warning C4101: 'f': unreferenced local variable
+  Hw2_studentID.vcxproj -> C:\Users\cxl\Downloads\Computer Graphics\CG_HW02\Debug\Hw2_0656632.exe
+  Hw2_studentID.vcxproj -> C:\Users\cxl\Downloads\Computer Graphics\CG_HW02\Debug\Hw2_0656632.pdb (Full PDB)
